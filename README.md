@@ -1,0 +1,1 @@
+# Phyton---Veri-ekme---Selenium-ve-beautifulsoup
